@@ -1,2 +1,0 @@
-# ToXicPvP
-Lietuviškas Minecraft serveris
